@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316954454584",
+    "project_id": "blogcursogaston",
+    "storage_bucket": "blogcursogaston.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316954454584:android:1c2d1ed44392cbada954cd",
+        "android_client_info": {
+          "package_name": "com.example.firebasecursogaston"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316954454584-p9tfojup7n6u217o3ljlpjdjb63hnfap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9otj8AS5qH6-pc1mUfhNMPqHH-S194Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316954454584-p9tfojup7n6u217o3ljlpjdjb63hnfap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
